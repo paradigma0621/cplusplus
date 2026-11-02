@@ -1,0 +1,9 @@
+Como Instalar a PDCurses, a ncurses no Windows:
+https://terminalroot.com.br/2024/07/como-instalar-a-pdcurses-a-ncurses-no-windows.html
+
+Comando his:
+https://github.com/terroo/his
+ 
+ 
+Comando para compilar o programa fuzz:
+g++ fuzz-main.cpp -lncurses -ltinfo -o fuzz-his
